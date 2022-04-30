@@ -10,7 +10,7 @@ Build a shared wallet Solidity smart contract. The owner of this contract can ad
 
 ##
 
-**Deployed at:** https://rinkeby.etherscan.io/0xD45a59251D39abDf0e87B6883dD74FE4eD06Ff02.
+**Deployed at:** https://rinkeby.etherscan.io/address/0xD45a59251D39abDf0e87B6883dD74FE4eD06Ff02.
 
 ---
 
