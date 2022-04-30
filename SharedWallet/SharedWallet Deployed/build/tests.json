@@ -1,0 +1,15 @@
+{
+  "contracts": {
+    "SharedWallet": "844b5704eda2a3e6dc47324800f817bb6349f3bb"
+  },
+  "tests": {
+    "tests/test_wallet.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "........",
+      "sha1": "88d0d330d4740718ba204c01787d2184890dbb2e",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
