@@ -6,12 +6,8 @@ Culled from https://cryptomarketpool.com/getting-started-with-solidity/#block-ce
 
 ##
 
-Build a shared wallet Solidity smart contract. The owner of this contract can add and remove other owners and temporarily disable owners. Anyone can deposit ETH into the contract however to withdraw ETH more then one owner needs to approve the transaction.
+Build a shared wallet Solidity smart contract. The owner of this contract can add and remove other owners and temporarily disable owners. Anyone can deposit ETH into the contract however to withdraw ETH more than one owner needs to approve the transaction.
 
 ##
 
 **Deployed at:** https://rinkeby.etherscan.io/address/0xD45a59251D39abDf0e87B6883dD74FE4eD06Ff02.
-
----
-
-Nnaemeka.
